@@ -32,6 +32,24 @@ collections:
 
 markdown: kramdown
 
+<<<<<<< HEAD
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
+=======
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+
+theme: jekyll-theme-slate
+>>>>>>> da7e421160874420b27716c62cf6c9c02a9e64a6

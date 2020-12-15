@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Control persianas con Arduino'
 date: 2017-01-07 15:56:00
 categories: Arduino

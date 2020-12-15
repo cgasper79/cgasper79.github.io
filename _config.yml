@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hola, Soy Cristian"
-email: 'cgasconp@protonmail.com'
-description: "Ingeniero Informático y Geek tecnológico aficionado a la electrónica."
+title: "Hello. I'm Jami Gibbs."
+email: 'jami0821@gmail.com'
+description: "I'm a software developer and designer from Chicago creating useful things for the web."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cgasper79.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'cgasper79'
-github_username: 'cgasper79'
-medium_username: ''
+url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: 'jamigibbs'
+github_username: 'jamigibbs'
+medium_username: 'blog.jamigibbs.com'
 
 # Build settings
 markdown: kramdown
@@ -31,6 +31,9 @@ plugins:
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
+paginate: 10
+paginate_path: "/page:num/"
+
 pagination:
   
   # Site-wide kill switch, disabled here it doesn't run at all 
@@ -89,13 +92,13 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2020 cgasper79'
-admin_name: 'Cristian'
+footer_text: '© 2018 Jami Gibbs'
+admin_name: 'Jami Gibbs'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: true
+enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Inicio' }
-  - { url: '/about', text: 'Acerca de' }
+  - { url: '/', text: 'Home' }
+  - { url: '/about', text: 'About' }

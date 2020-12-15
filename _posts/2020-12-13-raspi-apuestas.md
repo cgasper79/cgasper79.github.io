@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Apuestas Raspi'
 date: 2020-12-13 15:56:00
 categories: RaspberryPi

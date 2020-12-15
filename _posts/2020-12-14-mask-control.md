@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Mask Control'
 date: 2020-12-14 21:15:00
 categories: Web

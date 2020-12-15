@@ -9,5 +9,5 @@ featured_image: '/img/posts/persianas.png'
 project_link: 'https://github.com/cgasper79/Control-Persianas-Arduino'
 button_text: 'Visita el proyecto'
 button_icon: 'github'
-lead_text: 'TFG - UOC - Control Persianas Eléctricas con Arduino mediante RF. Incluye opción para capturar el código de los mandos a distáncia de las persianas.'
+lead_text: 'Control Persianas Eléctricas con Arduino según fenómenos metereológicos (lluvia y sol). Incluye opción para capturar el código de los mandos a distáncia de las persianas.'
 ---

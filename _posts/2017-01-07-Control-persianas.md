@@ -4,9 +4,9 @@ position: left
 title: 'Control persianas con Arduino'
 date: 2017-01-07 15:56:00
 categories: Arduino
-tags: C++ Arduino Sass
-featured_image: '/img/posts/persianas.jpg'
-project_link: 'https://rescuethemes.com'
+tags: C++ Arduino
+featured_image: '/img/posts/persianas.png'
+project_link: 'https://github.com/cgasper79/Control-Persianas-Arduino'
 button_text: 'Visita el proyecto'
 button_icon: 'github'
 lead_text: 'TFG - UOC - Control Persianas Eléctricas con Arduino mediante RF. Incluye opción para capturar el código de los mandos a distáncia de las persianas.'

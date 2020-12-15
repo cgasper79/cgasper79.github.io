@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hola, Soy Cristian"
 email: 'cgasconp@protonmail.com'
-description: "Ingeniero Informático y Geek tecnológico."
+description: "Ingeniero Informático y Geek tecnológico aficionado a la electrónica."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'cgasper79'
 github_username: 'cgasper79'
-medium_username: 'blog.jamigibbs.com'
+medium_username: ''
 
 # Build settings
 markdown: kramdown
@@ -90,12 +90,12 @@ pagination:
 
 ### Phantom settings
 footer_text: '© 2020 cgasper79'
-admin_name: 'Jami Gibbs'
+admin_name: 'Cristian'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: false
+enable_contact: true
 
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: '/', text: 'Inicio' }
+  - { url: '/about', text: 'Acerca de' }
